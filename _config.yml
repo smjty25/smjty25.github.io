@@ -7,3 +7,8 @@ plugins:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+collections:
+  entries:
+    output: true
+    permalink: /:collection/:name/
