@@ -5,16 +5,14 @@ title: About Me
 
 # About Me
 
-Hi — I’m **Your Name**, a developer and writer who enjoys exploring ideas through code, words, and experiments.  
-This site is a small digital notebook where I share thoughts, snippets, and notes on whatever I’m learning.
+Hi — I’m Javad Taba, I enjoy physics, games, geometry, coding, and every combination of these four.
 
-I believe in:
-- Simplicity in design  
-- Clarity in code  
-- Depth in thought  
 
-If you’d like to reach out, you can find me on:  
-📧 [your.email@example.com](mailto:your.email@example.com)  
-🐙 [GitHub](https://github.com/yourusername)
+Find my ideas on:  
+
+📧 [smjty25@gmail.com](mailto:smjty25@gmail.com)  
+🐦 [Twitter (X)](https://x.com/smjtyazdi)
+📸 [Instagram](https://instagram.com/smjty.art)
+
 
 *Thanks for stopping by.*
