@@ -1,0 +1,9 @@
+title: "Your Name"
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge

@@ -1,11 +1,17 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>Javad Taba’s Blog</title>
-</head>
-<body>
-    <h1>Welcome to my blog</h1>
-    <p>This is my personal site hosted on GitHub Pages.</p>
-</body>
-</html>
+---
+layout: default
+---
+
+<h1>{{ site.title }}</h1>
+<nav>
+  <a href="/about">About Me</a>
+</nav>
+
+<ul>
+  {% for post in site.posts limit:5 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <small>{{ post.date | date: "%B %d, %Y" }}</small>
+    </li>
+  {% endfor %}
+</ul>
